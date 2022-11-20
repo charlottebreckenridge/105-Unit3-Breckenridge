@@ -15,7 +15,8 @@ Using "CountyHealthData_2014-2015", those interested in examining issues regardi
 
 Using subsets gleaned from the overarching Public Health dataset, researchers might also care to capture data visualizations such as the one below. These visualizations can help articulate layered information in a concise and understandabe way. The information presented below connects the rate of violent crime in a sample of Floridian Counties to their median household incomes. 
 
-Media![dz2Zt-rates-of-violent-crime-and-median-household-income-graduation-in-a-sample-of-floridian-counties-nbsp-](https://user-images.githubusercontent.com/118197639/202918168-0d43a88e-a6d4-4c53-82bb-77a093ee993f.png)
 
+
+![dz2Zt-rates-of-violent-crime-and-median-household-income-graduation-in-a-sample-of-floridian-counties-nbsp- (1)](https://user-images.githubusercontent.com/118197639/202918223-27e8c323-d261-4fe6-8e45-e8b6d6b990ec.png)
 
 
