@@ -7,7 +7,7 @@ It containes several files :
   - three are subsets of data points gathered using Python to target more specific material from the original raw data
   
  # Purpose
-The purpose of this repository project is to demonstrate to users how we might analyze and capture insight from working with publicly available data sets. For my own data research, I chose to work with Professor Gotzler's suggested data titled "CountyHealthData_2014-2015" as my source for analysis. Using that CSV file as our raw data, we can cull refined sets of targeted information to hypothesize potential connections between the material. 
+The purpose of this repository project is to demonstrate how we might analyze and capture insight from a . For my own data research, I chose to work with Professor Gotzler's suggested data titled "CountyHealthData_2014-2015" as my source for analysis. Using that CSV file as our raw data, we can cull refined sets of targeted information to hypothesize potential connections between the material. 
 
 The source we are working with is a nationally compiled data set with information rangining broadly from "Median Household Income" to "Homicide Rates"
 
