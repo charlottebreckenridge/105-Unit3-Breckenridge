@@ -24,6 +24,6 @@ Using subsets gleaned from the overarching Public Health dataset, researchers mi
 As you can see, the scatterplot and trendline visual demonstrate how counties with lower median household incomes associate with higher rates of violent crime. 
 
 # Getting Started 
-To get started manipulating the data, head first to the file here for instruction - [Process Instruction](https://github.com/charlottebreckenridge/105-Unit3-Breckenridge/blob/main/BreckenridgeUnit3.ipynb)
+To get started manipulating the data, head first to the file here for instruction - [Process Instruction](https://github.com/charlottebreckenridge/105-Unit3-Breckenridge/blob/main/Process%20Documentation.ipynb)
 
 
