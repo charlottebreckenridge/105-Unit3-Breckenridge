@@ -25,6 +25,7 @@ As you can see, the scatterplot and trendline visual demonstrate how counties wi
 
 # Getting Started 
 Initially, users will need to have Anaconda Navigator installed on their device. Here is a link to do that [Anaconda Download](https://www.anaconda.com/products/distribution)
+
 To get started manipulating the data, head first to the file here for instruction on how to start using Pandas - [Pandas How To](https://github.com/charlottebreckenridge/105-Unit3-Breckenridge/blob/main/Using%20Pandas1.ipynb)
 
 For further instruction on Pandas, follow the link here - [Pandas How To (part 2)](https://github.com/charlottebreckenridge/105-Unit3-Breckenridge/blob/main/Using%20Pandas2.ipynb)
