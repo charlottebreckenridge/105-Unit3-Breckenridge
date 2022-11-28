@@ -1,5 +1,5 @@
 # Public Health Data Repository Exploration 
-This is a publicly accesible instructional manual on a national public health data repository. By exploring the following files, anyone can learn how to reproduce datasets for future scientific analysis of national health statistics. This was produced by a research assistant at Society for Science, 501 non-profit organization dedicated to the promotion of science through education programs and publications. 
+This is a publicly accesible instructional manual on a collection of national public health data. By exploring the following files, anyone can learn how to reproduce datasets for future scientific analysis of national health statistics. This was produced by a research assistant at Society for Science, 501 non-profit organization dedicated to the promotion of science through education programs and publications. 
 
 The Several files contained below include the following:
 
